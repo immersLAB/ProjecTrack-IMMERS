@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/PlaceQR.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/RecordPosition.unity
+    guid: 790763c9880f0a240a6fc492a31da075
+  - enabled: 0
+    path: Assets/Scenes/RecordTransform.unity
+    guid: c1e102eda58c29245b2d5a0e9495b4c1
+  - enabled: 0
+    path: Assets/Scenes/PlacePose.unity
+    guid: 7c2fd6e3394ff044a8143dec768ce404
+  - enabled: 0
+    path: Assets/Scenes/Record9Codes.unity
+    guid: 315bbd563417b994db1b1c9085381aa4
+  - enabled: 0
+    path: Assets/Scenes/CalibratePNP.unity
+    guid: 8881f8b9c721ce74f85cfd89030bd670
+  - enabled: 0
+    path: Assets/Scenes/CalibratePPNP.unity
+    guid: 732a6a514d0b15648bc609472de444b9
+  - enabled: 0
+    path: Assets/Scenes/LightQR-HL.unity
+    guid: ce41f8ba49723d44fbbd6675af8575bf
+  - enabled: 0
+    path: Assets/Scenes/LightQR-PC.unity
+    guid: 8dcbbdf9e2c5ffa47a7ebfb84094e99d
+  - enabled: 0
+    path: Assets/Scenes/Aperture-HL.unity
+    guid: 967d9903bf2f4fc4ba23d7c9b0c96794
+  - enabled: 0
+    path: Assets/Scenes/Hand-HL.unity
+    guid: 5c91c810cee570d4993aa6f12a13f07d
+  - enabled: 0
+    path: Assets/Scenes/Hand-PC.unity
+    guid: b2fa50ae6d3f31744a7accd1f3728b65
+  - enabled: 1
+    path: Assets/Scenes/Aperture-PC.unity
+    guid: 9c74119d2c2b591459dcad2084eb4293
+  - enabled: 0
+    path: Assets/Scenes/ExampleScene.unity
+    guid: 9c741654d84e31644bc2a11f0ef256d5
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 4d85b43f1c047a144b1fe4a4d21ef25c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5b891810c3b37b64f9789b884b58d464, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: df23c12da8b3eea4caa78f2779d4678c, type: 2}

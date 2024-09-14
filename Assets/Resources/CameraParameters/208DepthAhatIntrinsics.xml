@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<SerializedCameraIntrinsics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImageWidth>512</ImageWidth>
+  <ImageHeight>512</ImageHeight>
+  <Transform>
+    <double>245.57998325033677</double>
+    <double>0</double>
+    <double>0</double>
+    <double>0</double>
+    <double>245.82086884847755</double>
+    <double>0</double>
+    <double>257.59326952978267</double>
+    <double>259.29284448835296</double>
+    <double>1</double>
+  </Transform>
+  <RadialDistortion>
+    <double>-0.22321585526470941</double>
+    <double>0.031678222113852045</double>
+    <double>0</double>
+    <double>0</double>
+    <double>0</double>
+    <double>0</double>
+  </RadialDistortion>
+  <TangentialDistortion>
+    <double>0</double>
+    <double>0</double>
+  </TangentialDistortion>
+  <ClosedFormDistorts>true</ClosedFormDistorts>
+</SerializedCameraIntrinsics>
